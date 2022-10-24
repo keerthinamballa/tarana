@@ -63,7 +63,7 @@ git push -u origin <your_branch_name>
 
 <sup>This repository is intended for individuals to test their programming skills, and the author(**@flyingsonu122**) will take no responsibility if it is put to any other use. Check [DISCLAIMER.md](./DISCLAIMER.md)</sup>
 
-**Thank You**
+**Thank You So Much**
 
 <br/><br/><br/>
 
